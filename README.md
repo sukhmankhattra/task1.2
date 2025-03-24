@@ -5,7 +5,7 @@ This is a sample project for Task 1.2.
 
 ## Description
 
-This project demonstrates the creation of a .gitignore file and a README.md file. It provides an example of good repository management.
+This project demonstrates the creation of a .gitignore file and a README.md file. 
 
 ## Installation Steps
 
